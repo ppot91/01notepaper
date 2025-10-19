@@ -1,6 +1,7 @@
 # 📰 NotePaper – Newspaper-Inspired Notes App
 
-NotePaper is a desktop-first, black & white notes experience inspired by the typography of the *New York Times*. Built as a candidate-quality showcase for responsive UI work, Supabase integration, and modern Next.js 14 architecture.
+NotePaper is a my first Next.js, Supabase project. I've learned using Cursor + Codex, pushing to Git and deploying with Railway and making it accessible via Https.
+It is a desktop-first, black & white notes experience inspired by the typography of the *New York Times*. Built as a candidate-quality showcase for responsive UI work, Supabase integration, and modern Next.js 14 architecture.
 
 ## ✨ Highlights
 
@@ -45,7 +46,12 @@ git clone https://github.com/you/notepaper.git
 cd notepaper
 npm install
 npm run dev
-
+```
 <img width="1908" height="1023" alt="image" src="https://github.com/user-attachments/assets/ce0fa5fd-8d5e-4b71-b56e-8f2cc838fd95" />
+
+
+https://github.com/user-attachments/assets/e14dcf0f-1122-4d83-9448-11001095047e
+
+
 
 
