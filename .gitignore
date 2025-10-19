@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Production
+.next
+out
+
+# Misc
+.env.local
+*.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+turbo

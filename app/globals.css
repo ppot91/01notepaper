@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: only light;
+}
+
+body {
+  @apply bg-paper-background text-paper-foreground font-sans antialiased;
+}
+
+a {
+  @apply underline-offset-4 decoration-paper-foreground decoration-1;
+}
+
+button {
+  @apply focus:outline-none focus:ring-2 focus:ring-black focus:ring-offset-2 focus:ring-offset-paper-background;
+}
